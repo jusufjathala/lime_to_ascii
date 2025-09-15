@@ -1,4 +1,4 @@
-# repo_lime_to_ascii  
+# lime_to_ascii Repository
 by Jusuf Junior Athala  
 Using mpl_ascii library to convert matplotlib figure of LIME Explanations into ASCII plot. ASCII plot will be able to be inserted into CSV file.
 
